@@ -17,6 +17,7 @@
 		7A9FE12327BDEF9300AC7B71 /* DJWLoginTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9FE12227BDEF9300AC7B71 /* DJWLoginTests.m */; };
 		7A9FE12D27BDEF9300AC7B71 /* DJWLoginUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9FE12C27BDEF9300AC7B71 /* DJWLoginUITests.m */; };
 		7A9FE12F27BDEF9300AC7B71 /* DJWLoginUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9FE12E27BDEF9300AC7B71 /* DJWLoginUITestsLaunchTests.m */; };
+		7A9FE13D27BDF91F00AC7B71 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9FE13C27BDF91F00AC7B71 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		7A9FE12827BDEF9300AC7B71 /* DJWLoginUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DJWLoginUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A9FE12C27BDEF9300AC7B71 /* DJWLoginUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJWLoginUITests.m; sourceTree = "<group>"; };
 		7A9FE12E27BDEF9300AC7B71 /* DJWLoginUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJWLoginUITestsLaunchTests.m; sourceTree = "<group>"; };
+		7A9FE13B27BDF91F00AC7B71 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		7A9FE13C27BDF91F00AC7B71 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				7A9FE11427BDEF9300AC7B71 /* LaunchScreen.storyboard */,
 				7A9FE11727BDEF9300AC7B71 /* Info.plist */,
 				7A9FE11827BDEF9300AC7B71 /* main.m */,
+				7A9FE13B27BDF91F00AC7B71 /* TestViewController.h */,
+				7A9FE13C27BDF91F00AC7B71 /* TestViewController.m */,
 			);
 			path = DJWLogin;
 			sourceTree = "<group>";
@@ -270,6 +275,7 @@
 				7A9FE10827BDEF9000AC7B71 /* AppDelegate.m in Sources */,
 				7A9FE11927BDEF9300AC7B71 /* main.m in Sources */,
 				7A9FE10B27BDEF9000AC7B71 /* SceneDelegate.m in Sources */,
+				7A9FE13D27BDF91F00AC7B71 /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
